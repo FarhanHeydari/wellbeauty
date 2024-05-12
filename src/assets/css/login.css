@@ -1,0 +1,25 @@
+.login-password-input, .login-phone-input {
+    border-radius: 15px;
+    overflow: hidden;
+    border: 1px solid #d2cde0 !important;
+    height: 60px;
+}
+
+.login-form {
+    width: 350px;
+    max-width: 100%;
+    margin: 0 auto;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.login-button {
+    height: 50px;
+    border-radius: 15px;
+    font-size: 1.2em;
+}
+
+.login-password-input > div, .login-phone-input > div {
+    background-color: #ebeff2;
+    height: 60px;
+}

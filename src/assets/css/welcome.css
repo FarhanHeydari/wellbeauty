@@ -1,0 +1,51 @@
+.welcome-background {
+    background-color: #461750;
+    background-image: url("../img/bg.jpg");
+    background-position: center;
+    background-size: contain;
+    color: #fff;
+    height: 95vh;
+    box-sizing: border-box;
+}
+
+.welcome-nav-right-shade {
+    width: 20px;
+    height: 40px;
+    background: #ffffff54;
+    border-radius: 10px 0 0 10px;
+}
+
+.welcome-nav-left-shade {
+    width: 20px;
+    height: 40px;
+    background: #ffffff54;
+    border-radius: 0 10px 10px 0;
+}
+
+.welcome-nav-left-box {
+    direction: ltr;
+}
+
+.welcome-nav-divider {
+    margin-top: 10px;
+}
+
+.welcome-body {
+    display: flex;
+    height: calc(100% - 56px);
+    padding-top: 400px;
+}
+
+.welcome-nav-right-box {
+    display: flex;
+    align-items: center;
+}
+
+.welcome-wellness-logo {
+    height: 45px;
+    margin: 10px;
+}
+
+.welcome-wellness-version{
+    margin: 10px;
+}

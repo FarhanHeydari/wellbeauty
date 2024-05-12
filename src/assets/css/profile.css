@@ -1,0 +1,59 @@
+.role-icon {
+    position: relative;
+    top: 3px;
+    margin-left: 8px;
+}
+
+.exit-icon {
+    margin-left: 10px;
+}
+
+.cs-message.cs-message--outgoing.cs-message--first .cs-message__content {
+    background-color: #663c8f !important;
+
+    border-radius: 1.5em !important;
+}
+
+.cs-message--outgoing .cs-message__content {
+    background-color: #663c8f !important;
+    color: #ffffff !important;
+}
+
+.cs-message__content {
+    background-color: #eff3f6 !important;
+    border-radius: 1.5em !important;
+}
+
+.cs-message-input__content-editor-wrapper {
+    background-color: #eff3f6 !important;
+    border: 1px solid #e1e5e8 !important
+}
+
+.cs-message-input__content-editor {
+    background-color: #eff3f6 !important;
+    color: #9c9ea0 !important;
+    direction: rtl;
+
+}
+
+.cs-message-input__content-editor[data-placeholder]:empty:before {
+    position: relative;
+    text-align: start;
+    font-size: .9em;
+    top: 3px;
+}
+
+.cs-button--attachment {
+    color: #663c8f !important;
+}
+
+.cs-button--send {
+    color: #663c8f !important;
+}
+
+.cs-message-list__scroll-wrapper{
+    padding: 0 0.2em 0 0.2em;
+}
+.cs-chat-container .cs-message-input{
+    border-top: solid 1px #d1dbe357 !important;
+}

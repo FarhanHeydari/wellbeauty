@@ -1,0 +1,15 @@
+.footer-buttons > .Mui-selected {
+    border: none !important;
+    color: rgba(95,51,137,1) !important;
+}
+.footer-buttons > .Mui-selected:before {
+    content:'';
+    position:absolute;
+    bottom:0;
+    left:0;
+    right:0;
+    width: 100%;
+    background:rgba(95,51,137,1);
+    height:3px;
+    border-radius:10px 10px 0 0 ;
+}

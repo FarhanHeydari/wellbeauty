@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Yekan;
+    src: url(Yekan.woff2);
+}
+*{
+    font-family: Yekan, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    line-height: normal !important;
+}
+body{
+    background-color: #eff3f6;
+}

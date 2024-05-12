@@ -1,0 +1,38 @@
+.service-name {
+    height: 50px;
+    width: 100%;
+    border-radius: 10px !important;
+    border-right: 1px solid rgba(0, 0, 0, 0.12) !important;
+
+}
+
+.service-group {
+    display: grid !important;
+    gap: 10px 20px;
+    grid-template-columns: auto auto;
+    padding: 20px 30px;
+}
+
+.next-button {
+    flex: 1;
+    margin: 20px 20px;
+    height: 50px;
+    border-radius: 10px !important;
+}
+
+.date-group {
+    display: grid !important;
+    grid-template-columns: auto auto auto;
+    gap: 1em;
+}
+
+.date-button {
+    border-radius: 10px !important;
+    border: 1px solid rgba(120, 74, 244, 0.47) !important;
+}
+
+.hour-group {
+    display: grid !important;
+    grid-template-columns: auto auto auto auto auto;
+    gap: 1em;
+}

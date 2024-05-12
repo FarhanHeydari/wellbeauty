@@ -1,0 +1,52 @@
+.nav {
+    height: 80px;
+    justify-content: center;
+}
+
+.signup-form {
+
+    width: 350px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.welcome-header {
+    margin-bottom: 20px;
+}
+
+.welcome-phone-input, .welcome-password-input, .welcome-repassword-input {
+    border-radius: 15px;
+    overflow: hidden;
+    border: 1px solid #d2cde0 !important;
+    height: 60px;
+}
+
+.welcome-phone-input > div, .welcome-password-input > div, .welcome-repassword-input > div {
+    background-color: #ebeff2;
+    height: 60px;
+}
+
+
+.muirtl-9mc7sf-MuiInputAdornment-root.MuiInputAdornment-positionStart.muirtl-9mc7sf-MuiInputAdornment-root:not(.MuiInputAdornment-hiddenLabel) {
+    margin-top: 0 !important;
+}
+
+.muirtl-c5b1cp-MuiInputAdornment-root.MuiInputAdornment-positionStart.muirtl-c5b1cp-MuiInputAdornment-root:not(.MuiInputAdornment-hiddenLabel) {
+    margin-top: 0 !important;
+}
+
+.muirtl-1vbc0rj-MuiInputBase-input-MuiFilledInput-input {
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+}
+
+.signup-button {
+    height: 50px;
+    border-radius: 15px;
+    font-size: 1.2em;
+    margin-top: 70px;
+}
+.signup-text{
+    margin-top: 50px;
+    height: 80px;
+}
